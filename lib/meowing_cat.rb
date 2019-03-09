@@ -7,3 +7,4 @@ class Cat
   end
 end
 
+Cat.new
